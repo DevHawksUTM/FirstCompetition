@@ -1,4 +1,4 @@
-# FirstCompetition
+# First Competition
 This will be the repository for the First Competition!
 
 Instructions for Submission:
