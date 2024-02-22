@@ -4,11 +4,11 @@ This will be the repository for the First Competition!
 Instructions for Submission:
 
   **We did Steps 1,2 in General Meeting 1**
-  1.) Set up VSCode for your preferred programming language.
+  1.) Set up IDE (VSCode) for your preferred programming language.
   
-  2.) Set up Git with VSCode to be able to push/pull into your repositories.
+  2.) Set up Git with IDE (VSCode) to be able to push/pull into your repositories.
 
-  3.) Create your code in your VSCode environment.
+  3.) Create your code in your IDE (VSCode) environment.
 
   4.) Push your project to the repository on your branch. 
 
